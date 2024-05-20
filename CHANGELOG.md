@@ -1,5 +1,11 @@
 # Changelog
 
+## 5.1.0
+
+### Minor Changes
+
+- 509f387: Bump @types/qs to latest
+
 ## 5.0.0 (2024-02-27)
 
 ### 💣 Major Changes
