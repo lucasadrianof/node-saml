@@ -65,7 +65,6 @@
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.3",
-    "@cjbarth/github-release-notes": "^4.2.0",
     "@istanbuljs/nyc-config-typescript": "^1.0.2",
     "@types/chai": "^4.3.11",
     "@types/mocha": "^10.0.6",
